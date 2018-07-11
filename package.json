@@ -1,0 +1,14 @@
+{
+  "name": "udemy_courses",
+  "quokka": {
+    "plugins": [
+      "jsdom-quokka-plugin"
+    ]
+  },
+  "version": "",
+  "description": "Udemy Classes and course exercises",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jsdom-quokka-plugin": "^1.0.13"
+  }
+}
